@@ -2,4 +2,4 @@
 Personal Website
 
 
-[Check out the Page](kacobjeith.github.io)
+[https://kacobjeith.github.io/](https://kacobjeith.github.io/)
