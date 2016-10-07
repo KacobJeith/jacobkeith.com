@@ -1,5 +1,5 @@
 name: Jacob Keith
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-highlighter: pygments
+highlighter: rouge
 
