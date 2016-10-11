@@ -96,4 +96,4 @@ Temperatures under standard use seem to run pretty low - right now my system is 
 
 Computer build success! Now for the real fun. 
 
-J
+J.
