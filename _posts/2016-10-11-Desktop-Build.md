@@ -4,7 +4,7 @@ title: "I Built a Pretty Badass Computer"
 date: 2016-10-11
 ---
 
-After a week waiting in eager anticipation, all my computer parts have arrived, and my first custom-built computer is all put together. So far I'm ecstatic with the result. 
+After a week waiting in eager anticipation, all my computer parts have arrived, and my first custom-built computer is all put together. So far I'm ecstatic with the result. [Nanotronics Imaging](http://www.nanotronics.co)
 
 <div class="container">
   <h3>Breakdown of my new build: </h3>
